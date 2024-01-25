@@ -4,6 +4,11 @@ import java.text.NumberFormat;
 import java.util.Locale;
 import java.util.Scanner;
 
+
+/**
+ * The task involves formatting a given double-precision number representing an amount of money into different currency formats using the NumberFormat class in Java.
+ * Specifically, the goal is to convert the amount into the US, Indian, Chinese, and French currency formats and print the formatted values.
+ */
 public class CurrencyFormatter {
     public static String us;
     public static String india;
